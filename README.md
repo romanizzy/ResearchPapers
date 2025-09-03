@@ -7,7 +7,14 @@ completion and purpose of the research/project.
 For more information. Please contact me.
 
 ## Project List
-* NASA Space Apps 2023
-* 
-
+### Hackathons and Class Projects
+* NASA Space Apps Fall 2023
+* Felicette ???? 2022?
+* FurEver Home Spring 2025
+### Personal Projects
+* Pomodoro Timer
+* Personal Porfolio
 ## Research List
+* Bug Algorithms
+* The Ants Won't Go Marching
+* Current: NEATFA-RL
