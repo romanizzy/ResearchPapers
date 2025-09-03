@@ -1,7 +1,13 @@
-# ReadME
+# Research and Projects
 
-This repository will hold smaller projects and research papers that I will have.
+This repository will hold smaller projects and research papers that I have completed or participated in.
 A lot of this may be incomplete. For better documentation click the links that are in the ReadME files in each folder.
 Many of these folders will only include a paper(s) and a ReadME file with information about the
 completion and purpose of the research/project.
 For more information. Please contact me.
+
+## Project List
+* NASA Space Apps 2023
+* 
+
+## Research List
